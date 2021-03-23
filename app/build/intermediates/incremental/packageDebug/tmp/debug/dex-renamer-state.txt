@@ -1,0 +1,4 @@
+#Tue Mar 23 19:28:46 ICT 2021
+base.0=D\:\\Kuliah\\Kelas\\Semester 4\\Pemrograman Perangkat Bergerak 1\\Minggu 6\\android-kotlin-fundamentals-starter-apps-master\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
